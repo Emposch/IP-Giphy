@@ -1,0 +1,26 @@
+body{
+    background-image: url(./1920x1080-px-lake-landscape-mountains-sunset-trees-1031446.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#div1{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+#input{
+   background: none;
+   border: 45px;
+   border-color: paleturquoise;
+}
+#btn{
+    background-color: peru;
+}
+#output{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    margin: 20px auto;
+    
+}
